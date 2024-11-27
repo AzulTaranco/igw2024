@@ -40,10 +40,5 @@ img {
     height: auto;
 }
 
-/* Ajustes para dispositivos móviles (ejemplo) */
-@media (max-width: 600px) {
-    nav li {
-        display: block;
-        margin: 0.5rem 0;
-    }
-}
+
+      
